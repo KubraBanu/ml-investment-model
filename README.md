@@ -1,7 +1,5 @@
 # ML-Based Investment Model — NVIDIA Excess Return Prediction
 
-**Course:** Financial Analytics / Machine Learning  
-**Institution:** Clark University School of Business  
 **Author:** Kubra Banu
 
 ---
